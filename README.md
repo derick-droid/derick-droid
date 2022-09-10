@@ -1,6 +1,8 @@
 ### Hi there , I'm derick kibaso Okinda
 I am glad to see you around.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...bursary web app
