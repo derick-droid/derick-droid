@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there , I'm derick kibaso Okinda
+I am glad to see you around.
 
-<!
-**derick-droid/derick-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...bursary web app
