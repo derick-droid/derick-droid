@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...python and django projects
 - 🤔 I’m looking for help with ...Algorithm and Datastructures
 - 💬 Ask me about ...Django and backend development
-- 📫 How to reach me: ...developer.derrickokinda9@gmail.com
+- 📫 How to reach me: ...derrickokinda9@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I love to solve problems 
 
