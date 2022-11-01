@@ -4,7 +4,7 @@ I am glad to see you around.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...My Portfolio
+- 🔭 I’m currently working on ...My Portfolio frontend
 - 🌱 I’m currently learning ...python and django for backend development
 - 👯 I’m looking to collaborate on ...python and django projects
 - 🤔 I’m looking for help with ...Algorithm and Datastructures
