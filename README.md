@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Django and backend development
 - 📫 How to reach me: ...derrickokinda9@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I love to solve problems 
+- ⚡ Fun fact: ...I love to solve problems and learn more about programming
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derick-droid&theme=radical) 
